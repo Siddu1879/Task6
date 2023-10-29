@@ -3,7 +3,7 @@ function Nav() {
     return (
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light ">
-            <h1><a class="navbar-brand text-primary mx-4" href="#">Vamsi</a></h1>
+            <h1><a class="navbar-brand text-primary mx-4" href="#">Siddhardha</a></h1>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
